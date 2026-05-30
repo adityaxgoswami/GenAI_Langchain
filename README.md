@@ -11,42 +11,6 @@ The goal of this repository is:
 
 ---
 
-# 📚 Repository Structure
-
-```text
-GenAI-Learning/
-│
-├── LangChain/
-│   ├── Tools/
-│   │   ├── tool_basics.ipynb
-│   │   └── custom_tools.ipynb
-│   │
-│   ├── Chains/
-│   ├── Agents/
-│   └── Memory/
-│
-├── RAG/
-│   ├── Basic_RAG/
-│   ├── Advanced_RAG/
-│   └── Evaluation/
-│
-├── LLMs/
-│   ├── Transformers/
-│   ├── Fine_Tuning/
-│   └── Quantization/
-│
-├── Embeddings/
-│
-├── Vector_Databases/
-│
-├── Prompt_Engineering/
-│
-├── Research_Papers/
-│
-└── Notes/
-```
-
----
 
 # 🎯 Learning Roadmap
 
@@ -63,7 +27,6 @@ GenAI-Learning/
 - [ ] Chains
 - [ ] Agents
 - [ ] Memory
-- [ ] LCEL
 
 ## Retrieval Augmented Generation (RAG)
 
@@ -100,8 +63,8 @@ GenAI-Learning/
 
 | Date | Topic | Status |
 |------|------|------|
-| YYYY-MM-DD | LangChain Tools | ✅ |
-| YYYY-MM-DD | Agents | ⏳ |
+| 2026-05-30 | LangChain Tools | ✅ |
+| 2026-05-30 | Agents | ⏳ |
 
 ---
 
